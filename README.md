@@ -19,6 +19,11 @@ gradientBtn({
   color: 'grey'
 })
 ```
+add 'gradient-btn'class to your button 
+
+```
+<button class="gradient-btn">My button</button>
+```
 
 ## Options
 
