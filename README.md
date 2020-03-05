@@ -27,4 +27,4 @@ add 'gradient-btn'class to your button
 
 ## Options
 
-* *color* - _yellow / red / green / blue / grey_ (Defaults to grey)
+* *color* - _yellow / red / green / blue / grey / pink /darkBlue_ (Defaults to grey)
